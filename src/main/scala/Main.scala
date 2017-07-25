@@ -1,4 +1,5 @@
 import akka.actor.{ActorSystem, Props}
+import com.gailo22.hello.HelloActor
 
 object Main extends App {
 

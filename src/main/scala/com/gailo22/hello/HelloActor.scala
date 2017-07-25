@@ -1,3 +1,5 @@
+package com.gailo22.hello
+
 import akka.actor._
 
 class HelloActor(myName: String) extends Actor {
